@@ -1,6 +1,6 @@
 # vuex-shopping-cart
 
-> A Vue.js project
+> A Vue.js educational project, building shopping cart with Vuex, original source article is here (https://medium.com/employbl/build-a-shopping-cart-with-vue-2-and-vuex-5d58b93c513f)
 
 ## Build Setup
 
